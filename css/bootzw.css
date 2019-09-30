@@ -1,0 +1,5 @@
+.navbar-toggler-icon{background-color: mediumslateblue;}
+    .d1{background-color:#6f5499;color: white;}
+        p>a{color: white}
+    .d1>div>span{width: 150px;height: 150px;border: 2px solid white;display: block;border-radius:15px;font-size:100px;margin: auto; }
+    .pt-5>p{font-size: 20px;margin-top: 16px}
